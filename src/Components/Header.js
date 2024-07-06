@@ -16,7 +16,7 @@ export default function Header(props) {
                 <Link className="nav-link active" aria-current="page" to='/ClassMethod'>Class Method</Link>
               </li>
               <li className="nav-item">
-                <Link className="nav-link" to='/FunctionMethod'>Function</Link>
+                <Link className="nav-link" to='/FunctionMethod'>by Function</Link>
               </li>
             </ul>
           </div>
